@@ -22,10 +22,10 @@ const images = document.querySelectorAll('.hero-image');
 const heroText = document.querySelector("h1");
 
 const imageData = [
-    { title: "Light Trails", subtitle: "immersive experiences" },
-    { title: " Futuristic Cityscape", subtitle: "gaming and WebGL" },
-    { title: " Wireframe Structures", subtitle: "WebGL and 3D-focused " },
-    { title: "Space-Inspired Visuals", subtitle: "multi-dimensional concept" }
+    { title: "MUSEUM", subtitle: "Experiential Website" },
+    { title: "BIGGER SCIENCE", subtitle: "Immersive Experience/WebGL/Gaming" },
+    { title: " OLIVE TREE", subtitle: "Interactive Installation/Real Time " },
+    { title: "UGANISHA", subtitle: "Experiential Website/WebGL/3D" }
 ];
 
 images.forEach((img, index) => {
